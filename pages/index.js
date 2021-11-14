@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }) {
 					title: "Pavel Almeida",
 					description:
 						"A passionate Web Developer and graphic designer.",
-					image: "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D1709228842616894%26set%3Da.103865473153247&show_text=true&width=500", 
+					image: "https://avatars.githubusercontent.com/u/45469186?v=4", 
 					url: "https://aitalmeida.com",
 					keywords: [
 						"Pavel",
