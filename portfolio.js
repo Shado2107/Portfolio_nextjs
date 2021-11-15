@@ -217,3 +217,31 @@ export const feedbacks = [
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
 	},
 ];
+
+export const graphics =  [
+	{
+		name: "logo ait almeida",
+		desc: "descriptions",
+		link: "/img/icons/common/google.svg",
+	},
+	{
+		name: "logo ait almeida",
+		desc: "description",
+		link: "/img/icons/common/airbnblogo.png",
+	},
+	{
+		name: "logo ait almeida",
+		desc: "description",
+		link: "/img/icons/common/google.svg",
+	},
+	{
+		name: "logo ait almeida",
+		desc: "description",
+		link: "/img/icons/common/google.svg",
+	},
+	{
+		name: "logo ait almeida",
+		desc: "description",
+		link: "/img/icons/common/google.svg",
+	},
+];
