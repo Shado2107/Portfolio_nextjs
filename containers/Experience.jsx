@@ -8,7 +8,7 @@ import ExperienceCard from "../components/ExperienceCard";
 
 const Experience = () => {
 	return (
-		<section className="section section-lg">
+		<section className="section section-lg" id="Experience">
 			<Container>
 				<Fade bottom duration={1000} distance="40px">
 					<div className="d-flex p-4">

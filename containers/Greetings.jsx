@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { greetings } from "../portfolio";
+import { greetings, contact } from "../portfolio";
 
 import { Button, Container, Row, Col } from "reactstrap";
 
@@ -12,7 +12,7 @@ const Greetings = () => {
 		document.scrollingElement.scrollTop = 0;
 	});
 	return (
-		<main>
+		<main id="Greetings">
 			<div className="position-relative">
 				<section className="section section-lg section-shaped pb-250">
 					<div className="shape shape-style-1 bg-gradient-info">
@@ -38,6 +38,18 @@ const Greetings = () => {
 									</p>
 									<SocialLinks />
 									<div className="btn-wrapper my-4">
+									<Button
+											className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
+											color="default"
+											href="mailto:{contact.mail}"
+										>
+											<span className="btn-inner--icon mr-1">
+												<i className="fa fa-envelope" />
+											</span>
+											<span className="btn-inner--text">
+												Contact me
+											</span>
+										</Button>
 										<Button
 											className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
 											color="default"
@@ -49,7 +61,7 @@ const Greetings = () => {
 											<span className="btn-inner--text">
 												See My Resume
 											</span>
-										</Button>
+										</Button>	
 									</div>
 								</Col>
 								<Col lg="6">

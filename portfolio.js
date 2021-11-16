@@ -12,7 +12,10 @@ export const openSource = {
 	githubUserName: "Shado2107",
 };
 
-export const contact = {};
+export const contact = {
+	telephone : "+228 99 75 23 27",
+	mail: "romalmeida21@gmail",
+};
 
 export const socialLinks = {
 	facebook: "https://www.facebook.com/pavel.dalmeida/",

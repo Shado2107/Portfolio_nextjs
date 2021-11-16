@@ -5,7 +5,7 @@ import { Container, Row, Col } from "reactstrap";
 
 const Edution = () => {
 	return (
-		<section className="section pb-0 bg-gradient-info my-5">
+		<section className="section pb-0 bg-gradient-info my-5" id="Education">
 			<Container>
 				<div className="d-flex px-3">
 					<div>

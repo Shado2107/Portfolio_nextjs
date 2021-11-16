@@ -6,7 +6,7 @@ import { Fade } from "react-reveal";
 
 const Graphics = () => {
 	return (
-		<section className="section section-lg">
+		<section className="section section-lg" id="Works">
 			<Container>
 				<Fade bottom duration={1000} distance="30px">
 					<div className="d-flex p-4">

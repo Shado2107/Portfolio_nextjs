@@ -86,13 +86,10 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Facebook"
 										className="nav-link-icon"
-										href={socialLinks.facebook}
-										target="_blank"
+										href="#Greetings"
+										
 									>
-										<i className="fa fa-facebook-square" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Facebook
-										</span>
+										Greetings
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -100,13 +97,10 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Instagram"
 										className="nav-link-icon"
-										href={socialLinks.instagram}
-										target="_blank"
+										href="#Skills"
+										
 									>
-										<i className="fa fa-instagram" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Instagram
-										</span>
+										Skills
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -114,13 +108,10 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Twitter"
 										className="nav-link-icon"
-										href={socialLinks.twitter}
-										target="_blank"
+										href="#Education"
+										
 									>
-										<i className="fa fa-twitter-square" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Twitter
-										</span>
+										Education
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -128,13 +119,10 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Github"
 										className="nav-link-icon"
-										href={socialLinks.github}
-										target="_blank"
+										href="#Experience"
+										
 									>
-										<i className="fa fa-github" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Github
-										</span>
+										Experience
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -142,13 +130,10 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Linkedin"
 										className="nav-link-icon"
-										href={socialLinks.linkedin}
-										target="_blank"
+										href="#Works"
+										
 									>
-										<i className="fa fa-linkedin" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Linkedin
-										</span>
+										Works
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -156,13 +141,9 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Behance"
 										className="nav-link-icon"
-										href={socialLinks.behance}
-										target="_blank"
+										href="#Projects"
 									>
-										<i className="fa fa-behance" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Behance
-										</span>
+										Projects
 									</NavLink>
 								</NavItem>
 							</Nav>
