@@ -2,9 +2,9 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Pavel Almeida",
-	title: "Hi all, I'm Pavel",
+	title: "Hi all, I'm Pavel 👋",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"Passionate about new technologies from a young age, I use my programming and design skills to create attractive websites. Wanna know more 😏?",
 	resumeLink: "",
 };
 
@@ -15,6 +15,8 @@ export const openSource = {
 export const contact = {
 	telephone : "+228 99 75 23 27",
 	mail: "romalmeida21@gmail",
+	picture: "/img/pavel1.png",
+	location: "Lomé-TOGO"
 };
 
 export const socialLinks = {
@@ -27,12 +29,12 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "What I do",
+	title: "Get to know me 😄 ",
 	subTitle:
-		"CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+		" Some of my skills:  ",
 	skills: [
 		emoji(
-			"⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+			"⚡ Develop highly interactive Front end / User Interfaces for your web"
 		),
 		emoji(
 			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
@@ -59,10 +61,10 @@ export const skillsSection = {
 			skillName: "JavaScript",
 			fontAwesomeClassname: "logos:javascript",
 		},
-		{
-			skillName: "TypeScript",
-			fontAwesomeClassname: "logos:typescript-icon",
-		},
+		// {
+		// 	skillName: "TypeScript",
+		// 	fontAwesomeClassname: "logos:typescript-icon",
+		// },
 		{
 			skillName: "reactjs",
 			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
@@ -71,14 +73,14 @@ export const skillsSection = {
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
-		},
+		// {
+		// 	skillName: "flutter",
+		// 	fontAwesomeClassname: "logos:flutter",
+		// },
+		// {
+		// 	skillName: "swift",
+		// 	fontAwesomeClassname: "vscode-icons:file-type-swift",
+		// },
 		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
@@ -87,30 +89,38 @@ export const skillsSection = {
 			skillName: "sql-database",
 			fontAwesomeClassname: "vscode-icons:file-type-sql",
 		},
-		{
-			skillName: "mongoDB",
-			fontAwesomeClassname: "vscode-icons:file-type-mongo",
-		},
-		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
-		{
-			skillName: "firebase",
-			fontAwesomeClassname: "logos:firebase",
-		},
-		{
-			skillName: "python",
-			fontAwesomeClassname: "logos:python",
-		},
+		// {
+		// 	skillName: "mongoDB",
+		// 	fontAwesomeClassname: "vscode-icons:file-type-mongo",
+		// },
+		// {
+		// 	skillName: "aws",
+		// 	fontAwesomeClassname: "logos:aws",
+		// },
+		// {
+		// 	skillName: "firebase",
+		// 	fontAwesomeClassname: "logos:firebase",
+		// },
+		// {
+		// 	skillName: "python",
+		// 	fontAwesomeClassname: "logos:python",
+		// },
 		{
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
 		},
 		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
+			skillName: "laravel",
+			fontAwesomeClassname: "logos:laravel",
 		},
+		{
+			skillName: "git",
+			fontAwesomeClassname: "vscode-icons:adobe-photoshop",
+		},
+		// {
+		// 	skillName: "docker",
+		// 	fontAwesomeClassname: "logos:docker-icon",
+		// },
 	],
 };
 
@@ -131,7 +141,7 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "IAI TOGO",
+		schoolName: "Supdeco",
 		subHeader: "Bachelor in computer science",
 		duration: "Octobre 2016 - Octobre 2019",
 		desc: "Participated in the research of XXX and published 3 papers.",
@@ -141,7 +151,7 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Harvard",
+		schoolName: "IAI Togo",
 		subHeader: "Master of Science in Computer Science",
 		duration: "September 2017 - April 2019",
 		desc: "Participated in the research of XXX and published 3 papers.",
@@ -151,7 +161,7 @@ export const educationInfo = [
 		],
 	},
 	{
-		schoolName: "Stanford University",
+		schoolName: "College NDE Vakpo",
 		subHeader: "Bachelor of Science in Computer Science",
 		duration: "September 2013 - April 2017",
 		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -218,33 +228,5 @@ export const feedbacks = [
 		name: "Maheen Altaf",
 		feedback:
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-	},
-];
-
-export const graphics =  [
-	{
-		name: "logo ait almeida",
-		desc: "descriptions",
-		link: "/img/icons/common/google.svg",
-	},
-	{
-		name: "logo ait almeida",
-		desc: "description",
-		link: "/img/icons/common/airbnblogo.png",
-	},
-	{
-		name: "logo ait almeida",
-		desc: "description",
-		link: "/img/icons/common/google.svg",
-	},
-	{
-		name: "logo ait almeida",
-		desc: "description",
-		link: "/img/icons/common/google.svg",
-	},
-	{
-		name: "logo ait almeida",
-		desc: "description",
-		link: "/img/icons/common/google.svg",
 	},
 ];

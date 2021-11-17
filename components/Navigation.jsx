@@ -100,7 +100,7 @@ const Navigation = () => {
 										href="#Skills"
 										
 									>
-										Skills
+										About
 									</NavLink>
 								</NavItem>
 								<NavItem>
@@ -111,10 +111,10 @@ const Navigation = () => {
 										href="#Education"
 										
 									>
-										Education
+										Services
 									</NavLink>
 								</NavItem>
-								<NavItem>
+								{/* <NavItem>
 									<NavLink
 										rel="noopener"
 										aria-label="Github"
@@ -135,7 +135,7 @@ const Navigation = () => {
 									>
 										Works
 									</NavLink>
-								</NavItem>
+								</NavItem> */}
 								<NavItem>
 									<NavLink
 										rel="noopener"
@@ -143,7 +143,7 @@ const Navigation = () => {
 										className="nav-link-icon"
 										href="#Projects"
 									>
-										Projects
+										Works
 									</NavLink>
 								</NavItem>
 							</Nav>

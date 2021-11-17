@@ -5,10 +5,10 @@ const Greetings = dynamic(() => import("../containers/Greetings"));
 const Skills = dynamic(() => import("../containers/Skills"));
 const Proficiency = dynamic(() => import("../containers/Proficiency"));
 const Education = dynamic(() => import("../containers/Education"));
-const Experience = dynamic(() => import("../containers/Experience"));
+// const Experience = dynamic(() => import("../containers/Experience"));
 const Projects = dynamic(() => import("../containers/Projects"));
 // const Feedbacks = dynamic(() => import("../containers/Feedbacks"));
-const Graphics = dynamic(() => import("../containers/Graphics"));
+// const Graphics = dynamic(() => import("../containers/Graphics"));
 const GithubProfileCard = dynamic(() =>
 	import("../components/GithubProfileCard")
 );
@@ -28,6 +28,7 @@ export default function Home({ githubProfileData }) {
 					keywords: [
 						"Pavel",
 						"Pavel Almeida",
+						"Pavel Romanus Almeida",
 						"@Shado2107",
 						"Shado2107",
 						"Portfolio",
@@ -55,9 +56,9 @@ export default function Home({ githubProfileData }) {
 			<Skills />
 			<Proficiency />
 			<Education />
-			<Experience />
+			{/* <Experience /> */}
 			{/* <Feedbacks /> */}
-			<Graphics />
+			{/* <Graphics /> */}
 			<Projects />
 			<GithubProfileCard prof={githubProfileData} />
 		</div>
