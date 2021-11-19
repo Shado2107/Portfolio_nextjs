@@ -1,11 +1,11 @@
 import React from "react";
-import EdutionCard from "../components/EdutionCard";
-import { educationInfo } from "../portfolio";
+import ServiceCard from "../components/ServiceCard";
+import { servicesInfo } from "../portfolio";
 import { Container, Row, Col } from "reactstrap";
 
 const Edution = () => {
 	return (
-		<section className="section pb-0 bg-gradient-info my-5" id="Education">
+		<section className="section pb-0 bg-gradient-info my-5" id="Services">
 			<Container>
 				<div className="d-flex px-3">
 					<div>
@@ -18,14 +18,14 @@ const Edution = () => {
 					</div>
 				</div>
 				<Row className="row-grid align-items-center">
-					{educationInfo.map((info) => {
+					{servicesInfo.map((info) => {
 						return (
 							<Col
 								className="order-lg-1"
 								lg="6"
 								key={info.schoolName}
 							>
-								<EdutionCard education={info} />
+								<ServiceCard service={info} />
 							</Col>
 						);
 					})}
@@ -50,4 +50,4 @@ const Edution = () => {
 	);
 };
 
-export default Edution;
+export default Services;

@@ -97,7 +97,7 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Instagram"
 										className="nav-link-icon"
-										href="#Skills"
+										href="#About"
 										
 									>
 										About
@@ -108,24 +108,24 @@ const Navigation = () => {
 										rel="noopener"
 										aria-label="Twitter"
 										className="nav-link-icon"
-										href="#Education"
+										href="#Services"
 										
 									>
 										Services
 									</NavLink>
 								</NavItem>
-								{/* <NavItem>
+								<NavItem>
 									<NavLink
 										rel="noopener"
 										aria-label="Github"
 										className="nav-link-icon"
-										href="#Experience"
+										href="#Works"
 										
 									>
-										Experience
+										Works
 									</NavLink>
 								</NavItem>
-								<NavItem>
+								{/* <NavItem>
 									<NavLink
 										rel="noopener"
 										aria-label="Linkedin"
@@ -135,7 +135,7 @@ const Navigation = () => {
 									>
 										Works
 									</NavLink>
-								</NavItem> */}
+								</NavItem>
 								<NavItem>
 									<NavLink
 										rel="noopener"
@@ -145,7 +145,7 @@ const Navigation = () => {
 									>
 										Works
 									</NavLink>
-								</NavItem>
+								</NavItem> */}
 							</Nav>
 						</UncontrolledCollapse>
 					</Container>

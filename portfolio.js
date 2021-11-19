@@ -139,7 +139,7 @@ export const SkillBars = [
 	},
 ];
 
-export const educationInfo = [
+export const servicesInfo = [
 	{
 		schoolName: "Supdeco",
 		subHeader: "Bachelor in computer science",
@@ -228,5 +228,24 @@ export const feedbacks = [
 		name: "Maheen Altaf",
 		feedback:
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+	},
+];
+
+export const graphics = [
+	{
+		name: "lorem ipsum",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		link: "https://example.com",
+	},
+	{
+		name: "lorem ipsum",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://github.com/",
+	},
+	{
+		name: "lorem ipsum",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://github.com/",
+		link: "https://example.com",
 	},
 ];

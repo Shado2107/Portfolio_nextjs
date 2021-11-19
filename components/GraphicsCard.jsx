@@ -7,12 +7,9 @@ import Image from "next/image";
 const GraphicsCard = ({ data }) => {
 	return (
 		<Fade left duration={1000} distance="30px">
-			<Card className="card-lift--hover shadow mt-4">
+			{/* <Card className="card-lift--hover shadow mt-4">
 				<CardBody>
-
-					
-
-					{/* <div className="d-flex px-3">
+					<div className="d-flex px-3">
 						<div className="pl-4">
 							<h5 className="text-info">{data.name}</h5>
 							<p className="description mt-3">{data.desc}</p>
@@ -23,9 +20,13 @@ const GraphicsCard = ({ data }) => {
 								alt={data.companylogo}
                             />
 						</div>
-					</div> */}
+					</div>
 				</CardBody>
-			</Card>
+			</Card> */}
+
+
+
+
 		</Fade>
 	);
 };
