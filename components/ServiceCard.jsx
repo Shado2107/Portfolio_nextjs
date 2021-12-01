@@ -10,21 +10,21 @@ const ServiceCard = ({ service }) => {
 				<CardBody>
 					<div className="d-flex px-3">
 						<div className="pl-4">
-							<h5 className="text-info">
-								{service.schoolName}
-							</h5>
+							<h3 className="text-info">
+								{service.name}
+							</h3>
 							<h6>{service.subHeader}</h6>
-							<Badge color="info" className="mr-1">
+							{/* <Badge color="info" className="mr-1">
 								{service.duration}
-							</Badge>
+							</Badge> */}
 							<p className="description mt-3">{service.desc}</p>
-							<ul>
+							{/* <ul>
 								{service.descBullets
 									? service.descBullets.map((desc) => {
 											return <li key={desc}>{desc}</li>;
 									  })
 									: null}
-							</ul>
+							</ul> */}
 						</div>
 					</div>
 				</CardBody>

@@ -114,8 +114,8 @@ export const skillsSection = {
 			fontAwesomeClassname: "logos:laravel",
 		},
 		{
-			skillName: "git",
-			fontAwesomeClassname: "vscode-icons:adobe-photoshop",
+			skillName: "wordpress",
+			fontAwesomeClassname: "logos:wordpress",
 		},
 		// {
 		// 	skillName: "docker",
@@ -139,37 +139,37 @@ export const SkillBars = [
 	},
 ];
 
-export const servicesInfo = [
-	{
-		schoolName: "Supdeco",
-		subHeader: "Bachelor in computer science",
-		duration: "Octobre 2016 - Octobre 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "IAI Togo",
-		subHeader: "Master of Science in Computer Science",
-		duration: "September 2017 - April 2019",
-		desc: "Participated in the research of XXX and published 3 papers.",
-		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-		],
-	},
-	{
-		schoolName: "College NDE Vakpo",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
-		],
-	},
-];
+// export const servicesInfo = [
+// 	{
+// 		schoolName: "Supdeco",
+// 		subHeader: "Bachelor in computer science",
+// 		duration: "Octobre 2016 - Octobre 2019",
+// 		desc: "Participated in the research of XXX and published 3 papers.",
+// 		descBullets: [
+// 			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
+// 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+// 		],
+// 	},
+// 	{
+// 		schoolName: "IAI Togo",
+// 		subHeader: "Master of Science in Computer Science",
+// 		duration: "September 2017 - April 2019",
+// 		desc: "Participated in the research of XXX and published 3 papers.",
+// 		descBullets: [
+// 			"Lorem ipsum dolor sit amet, consectetfgur adipiscing elit",
+// 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+// 		],
+// 	},
+// 	{
+// 		schoolName: "College NDE Vakpo",
+// 		subHeader: "Bachelor of Science in Computer Science",
+// 		duration: "September 2013 - April 2017",
+// 		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+// 		descBullets: [
+// 			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+// 		],
+// 	},
+// ];
 
 export const experience = [
 	{
@@ -201,9 +201,10 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "TMovies",
+		desc: "Site web de presentation des films réalisé avec reactjs et relié à lapi imdb",
+		link: "https://shado2107.github.io/moviesapp_react/",
+		github: "https://github.com/Shado2107/moviesapp_react",
 	},
 	{
 		name: "lorem ipsum",
@@ -241,6 +242,23 @@ export const graphics = [
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/",
+	},
+	{
+		name: "lorem ipsum",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://github.com/",
+		link: "https://example.com",
+	},
+];
+
+export const servicesInfo = [
+	{
+		name: "Web developement",
+		desc: "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
+	},
+	{
+		name: "Design",
+		desc: " I value simple content structure, clean design patterns, and thoughtful interactions. I enjoy designing: UX, UI, Web, Mobile, Apps, Logos",
 	},
 	{
 		name: "lorem ipsum",

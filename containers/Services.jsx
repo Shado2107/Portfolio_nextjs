@@ -3,7 +3,7 @@ import ServiceCard from "../components/ServiceCard";
 import { servicesInfo } from "../portfolio";
 import { Container, Row, Col } from "reactstrap";
 
-const Edution = () => {
+const Services = () => {
 	return (
 		<section className="section pb-0 bg-gradient-info my-5" id="Services">
 			<Container>
