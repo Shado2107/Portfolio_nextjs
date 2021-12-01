@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Pavel Almeida",
 	title: "Hi all, I'm Pavel 👋",
 	description:
-		"Passionate about new technologies from a young age, I use my programming and design skills to create attractive websites. Wanna know more 😏?",
+		"Passionate about new technologies from a young age, I use my programming and design skills to create attractive user interfaces and websites. 'm also doing graphic design (go to my behance page or my telegram channel to see my conceptions) Wanna know more 😏? https://t.me/aitalmeida",
 	resumeLink: "",
 };
 
