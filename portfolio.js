@@ -207,7 +207,7 @@ export const projects = [
 		github: "https://github.com/Shado2107/moviesapp_react",
 	},
 	{
-		name: "lorem ipsum",
+		name: "Twitter clone",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/",
 	},
@@ -216,6 +216,11 @@ export const projects = [
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/",
 		link: "https://example.com",
+	},
+	{
+		name: "WhatsappUI",
+		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		github: "https://github.com/Shado2107/whastappUI",
 	},
 ];
 
@@ -257,11 +262,11 @@ export const servicesInfo = [
 		desc: "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
 	},
 	{
-		name: "Design",
+		name: "Graphic Design",
 		desc: " I value simple content structure, clean design patterns, and thoughtful interactions. I enjoy designing: UX, UI, Web, Mobile, Apps, Logos",
 	},
 	{
-		name: "lorem ipsum",
+		name: "UI/UX Design",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
 		github: "https://github.com/",
 		link: "https://example.com",
