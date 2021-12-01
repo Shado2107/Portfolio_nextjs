@@ -37,10 +37,10 @@ export const skillsSection = {
 			"⚡ Develop highly interactive Front end / User Interfaces for your web"
 		),
 		emoji(
-			"⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"
+			"⚡ Create an attractiv user interfaces using adobe xd"
 		),
 		emoji(
-			"⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+			"⚡ with my graphic design skills I can also make you logos, and your graphic charter"
 		),
 	],
 
