@@ -208,18 +208,18 @@ export const projects = [
 	},
 	{
 		name: "Twitter clone",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		desc: "Twitter web clone make with react js",
 		github: "https://github.com/",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/",
-		link: "https://example.com",
+		name: "Weather app",
+		desc: "weather app make with react js",
+		github: "https://github.com/Shado2107/weatherapp",
+		link: "https://github.com/Shado2107/weatherapp",
 	},
 	{
 		name: "WhatsappUI",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		desc: "Whatsapp mobile application interface make with flutter",
 		github: "https://github.com/Shado2107/whastappUI",
 	},
 ];
