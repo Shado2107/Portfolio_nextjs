@@ -225,7 +225,7 @@ export const projects = [
 	{
 		name: "Handipreneurs",
 		desc: "Senegal handipreneurs website ",
-		link: "https://handpreneurs.sn",
+		link: "https://handipreneurs.sn",
 	},
 ];
 
@@ -267,13 +267,11 @@ export const servicesInfo = [
 		desc: "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
 	},
 	{
-		name: "Graphic Design",
+		name: "Graphic Design and UI/UX design",
 		desc: " I value simple content structure, clean design patterns, and thoughtful interactions. I enjoy designing: UX, UI, Web, Mobile, Apps, Logos",
 	},
 	{
-		name: "UI/UX Design",
+		name: "Project management",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/",
-		link: "https://example.com",
 	},
 ];
