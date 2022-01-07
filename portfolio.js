@@ -222,6 +222,11 @@ export const projects = [
 		desc: "Whatsapp mobile application interface make with flutter",
 		github: "https://github.com/Shado2107/whastappUI",
 	},
+	{
+		name: "Handipreneurs",
+		desc: "Senegal handipreneurs website ",
+		link: "https://handpreneurs.sn",
+	},
 ];
 
 export const feedbacks = [
