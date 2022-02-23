@@ -89,10 +89,10 @@ export const skillsSection = {
 			skillName: "sql-database",
 			fontAwesomeClassname: "vscode-icons:file-type-sql",
 		},
-		// {
-		// 	skillName: "mongoDB",
-		// 	fontAwesomeClassname: "vscode-icons:file-type-mongo",
-		// },
+		{
+			skillName: "mongoDB",
+			fontAwesomeClassname: "vscode-icons:file-type-mongo",
+		},
 		// {
 		// 	skillName: "aws",
 		// 	fontAwesomeClassname: "logos:aws",
@@ -215,7 +215,7 @@ export const projects = [
 		name: "Weather app",
 		desc: "weather app make with react js",
 		github: "https://github.com/Shado2107/weatherapp",
-		link: "https://github.com/Shado2107/weatherapp",
+		// link: "https://github.com/Shado2107/weatherapp",
 	},
 	{
 		name: "WhatsappUI",
@@ -227,6 +227,7 @@ export const projects = [
 		desc: "Senegal handipreneurs website ",
 		link: "https://handipreneurs.sn",
 	},
+	
 ];
 
 export const feedbacks = [
@@ -267,11 +268,11 @@ export const servicesInfo = [
 		desc: "I like to code things from scratch, and enjoy bringing ideas to life in the browser.",
 	},
 	{
-		name: "Graphic Design and UI/UX design",
+		name: "Design",
 		desc: " I value simple content structure, clean design patterns, and thoughtful interactions. I enjoy designing: UX, UI, Web, Mobile, Apps, Logos",
 	},
 	{
 		name: "Project management",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+		desc: "I accompany you in your website project From design to going live, and much later by training your teams in the use of your tools and maintaining your services. Agile Method / KANBAN Managing your web project from A to Z",
 	},
 ];
