@@ -215,7 +215,6 @@ export const projects = [
 		name: "Weather app",
 		desc: "weather app make with react js",
 		github: "https://github.com/Shado2107/weatherapp",
-		// link: "https://github.com/Shado2107/weatherapp",
 	},
 	{
 		name: "WhatsappUI",
