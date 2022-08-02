@@ -13,10 +13,10 @@ export const openSource = {
 };
 
 export const contact = {
-	telephone : "+228 99 75 23 27",
+	telephone : "+221 70 120 53 74",
 	mail: "romalmeida21@gmail",
-	picture: "/img/pavel1.png",
-	location: "Lomé-TOGO"
+	picture: "/img/pavel2.png",
+	location: "Dakar-Sénégal"
 };
 
 export const socialLinks = {
@@ -204,13 +204,13 @@ export const projects = [
 		name: "shadoMovies",
 		desc: "Site web de presentation des films réalisé avec reactjs et relié à lapi imdb",
 		link: "https://shadomovies.netlify.app/",
-		github: "https://github.com/Shado2107/moviesapp_react",
+		// github: "https://github.com/Shado2107/moviesapp_react",
 	},
-	{
-		name: "Twitter clone",
-		desc: "Twitter web clone make with react js",
-		github: "https://github.com/",
-	},
+	// {
+	// 	name: "Twitter clone",
+	// 	desc: "Twitter web clone make with react js",
+	// 	github: "https://github.com/",
+	// },
 	{
 		name: "Weather app",
 		desc: "weather app make with react js",
