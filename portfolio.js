@@ -206,15 +206,17 @@ export const projects = [
 		link: "https://shadomovies.netlify.app/",
 		// github: "https://github.com/Shado2107/moviesapp_react",
 	},
-	// {
-	// 	name: "Twitter clone",
-	// 	desc: "Twitter web clone make with react js",
-	// 	github: "https://github.com/",
-	// },
 	{
-		name: "Weather app",
-		desc: "weather app make with react js",
-		github: "https://github.com/Shado2107/weatherapp",
+		name: "Make it Perfect",
+		desc: "Presentation site web of communication agency in Lomé",
+		// github: "https://github.com/",
+		link: "coming soon"
+	},
+	{
+		name: "Invictus Capital finance",
+		desc: "Site web",
+		// github: "https://github.com/Shado2107/weatherapp",
+		link: "https://icf.wintech.sn",
 	},
 	{
 		name: "WhatsappUI",
@@ -272,6 +274,6 @@ export const servicesInfo = [
 	},
 	{
 		name: "Project management",
-		desc: "I accompany you in your website project From design to going live, and much later by training your teams in the use of your tools and maintaining your services. Agile Method / KANBAN Managing your web project from A to Z",
+		desc: "I accompany you in your project From design to going live, and much later by training your teams in the use of your tools and maintaining your services. Agile Method / KANBAN Managing your web project from A to Z",
 	},
 ];
