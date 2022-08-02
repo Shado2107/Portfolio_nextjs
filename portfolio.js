@@ -26,6 +26,7 @@ export const socialLinks = {
 	github: "https://github.com/Shado2107",
 	linkedin: "https://www.linkedin.com/in/a-pavel-romanus-d-almeida-62b393174/",
 	behance: "https://www.behance.net/dalmeidaromano",
+	whatsapp: "http://wa.me/22899752327",
 };
 
 export const skillsSection = {

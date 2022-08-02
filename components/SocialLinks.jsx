@@ -8,6 +8,18 @@ const SocialLinks = () => {
 	return (
 		<div className="btn-wrapper text-lg">
 			<Button
+				className="btn-icon-only rounded-circle ml-1"
+				color="github"
+				href={socialLinks.whatsapp}
+				rel="noopener"
+				aria-label="Whatsapp"
+				target="_blank"
+			>
+				<span className="btn-inner--icon">
+					<i className="fa fa-whatsapp" />
+				</span>
+			</Button>
+			<Button
 				className="btn-icon-only rounded-circle"
 				color="twitter"
 				href={socialLinks.twitter}
