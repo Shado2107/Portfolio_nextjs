@@ -15,7 +15,7 @@ export const openSource = {
 export const contact = {
 	telephone : "+221 70 120 53 74",
 	mail: "romalmeida21@gmail",
-	picture: "/img/pavel2.png",
+	picture: "/img/pavel2.jpg",
 	location: "Dakar-Sénégal"
 };
 
