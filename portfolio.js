@@ -127,15 +127,15 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
+		progressPercentage: "70", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
 		progressPercentage: "70",
 	},
 	{
-		Stack: "Programming",
-		progressPercentage: "60",
+		Stack: "Management",
+		progressPercentage: "50",
 	},
 ];
 
@@ -201,9 +201,9 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "TMovies",
+		name: "shadoMovies",
 		desc: "Site web de presentation des films réalisé avec reactjs et relié à lapi imdb",
-		link: "https://shado2107.github.io/moviesapp_react/",
+		link: "https://shadomovies.netlify.app/",
 		github: "https://github.com/Shado2107/moviesapp_react",
 	},
 	{
