@@ -192,8 +192,8 @@ export const experience = [
 		desc: "Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 	},
 	{
-		role: "Software Engineer Intern",
-		company: "Creazione Studio",
+		role: "Front-End dev and UI designer",
+		company: "WAIL ",
 		companylogo: "/img/icons/common/airbnbLogo.png",
 		date: "Jan 2015 – Sep 2015",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -207,17 +207,17 @@ export const projects = [
 		link: "https://shadomovies.netlify.app/",
 		// github: "https://github.com/Shado2107/moviesapp_react",
 	},
-	{
-		name: "Make it Perfect",
-		desc: "Presentation site web of communication agency in Lomé",
-		// github: "https://github.com/",
-		link: "coming soon"
-	},
+	// {
+	// 	name: "Make it Perfect",
+	// 	desc: "Presentation site web of communication agency in Lomé",
+	// 	// github: "https://github.com/",
+	// 	link: "coming soon"
+	// },
 	{
 		name: "Invictus Capital finance",
 		desc: "Site web",
 		// github: "https://github.com/Shado2107/weatherapp",
-		link: "https://icf.wintech.sn",
+		link: "https://invictuscapfin.com/",
 	},
 	{
 		name: "WhatsappUI",
@@ -229,21 +229,27 @@ export const projects = [
 		desc: "Senegal handipreneurs website ",
 		link: "https://handipreneurs.sn",
 	},
+	{
+		name: "Quizz Game",
+		desc: "Game ",
+		link: "",
+	},
+	
 	
 ];
 
-export const feedbacks = [
-	{
-		name: "Hassan Mehmood",
-		feedback:
-			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
-	},
-	{
-		name: "Maheen Altaf",
-		feedback:
-			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
-	},
-];
+// export const feedbacks = [
+// 	{
+// 		name: "Hassan Mehmood",
+// 		feedback:
+// 			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
+// 	},
+// 	{
+// 		name: "Maheen Altaf",
+// 		feedback:
+// 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
+// 	},
+// ];
 
 export const graphics = [
 	{

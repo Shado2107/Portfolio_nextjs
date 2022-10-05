@@ -24,7 +24,7 @@ export default function Home({ githubProfileData }) {
 					description:
 						"A passionate Web Developer and graphic designer.",
 					image: "https://avatars.githubusercontent.com/u/45469186?v=4", 
-					url: "https://aitalmeida.com",
+					url: "https://aitalmeida.netlify.app/",
 					keywords: [
 						"Pavel",
 						"Pavel Almeida",
