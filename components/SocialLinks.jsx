@@ -9,7 +9,7 @@ const SocialLinks = () => {
 		<div className="btn-wrapper text-lg">
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
-				color="whatsApp"
+				color="github"
 				href={socialLinks.whatsapp}
 				rel="noopener"
 				aria-label="Whatsapp"
