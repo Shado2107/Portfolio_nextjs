@@ -132,7 +132,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "65",
 	},
 	{
 		Stack: "Management",
@@ -140,7 +140,7 @@ export const SkillBars = [
 	},
 ];
 
-// export const servicesInfo = [
+// export const formation = [
 // 	{
 // 		schoolName: "Supdeco",
 // 		subHeader: "Bachelor in computer science",
@@ -174,9 +174,9 @@ export const SkillBars = [
 
 export const experience = [
 	{
-		role: "Software Engineer",
-		company: "DCN Technology",
-		companylogo: "/img/icons/common/google.svg",
+		role: "CTO",
+		company: "WINTECH",
+		companylogo: "/img/logo/wintech.png",
 		date: "June 2018 – Present",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 		descBullets: [
@@ -207,16 +207,15 @@ export const projects = [
 		link: "https://shadomovies.netlify.app/",
 		// github: "https://github.com/Shado2107/moviesapp_react",
 	},
-	// {
-	// 	name: "Make it Perfect",
-	// 	desc: "Presentation site web of communication agency in Lomé",
-	// 	// github: "https://github.com/",
-	// 	link: "coming soon"
-	// },
+	{
+		name: "Tales of time",
+		desc: "Web site for a travel agency in Senegal",
+		// github: "https://github.com/",
+		link: "coming soon"
+	},
 	{
 		name: "Invictus Capital finance",
 		desc: "Site web",
-		// github: "https://github.com/Shado2107/weatherapp",
 		link: "https://invictuscapfin.com/",
 	},
 	{

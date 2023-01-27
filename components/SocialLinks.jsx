@@ -9,7 +9,7 @@ const SocialLinks = () => {
 		<div className="btn-wrapper text-lg">
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
-				color="github"
+				color="whatsApp"
 				href={socialLinks.whatsapp}
 				rel="noopener"
 				aria-label="Whatsapp"
@@ -79,7 +79,7 @@ const SocialLinks = () => {
 					<i className="fa fa-linkedin" />
 				</span>
 			</Button>
-			<Button
+			{/* <Button
 				className="btn-icon-only rounded-circle ml-1"
 				color="github"
 				href={socialLinks.behance}
@@ -90,7 +90,7 @@ const SocialLinks = () => {
 				<span className="btn-inner--icon">
 					<i className="fa fa-behance" />
 				</span>
-			</Button>
+			</Button> */}
 		</div>
 	);
 };

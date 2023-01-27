@@ -25,7 +25,7 @@ const GithubProfileCard = ({ prof }) => {
 							<h2 className="text-white">Reach Out to me!</h2>
 							<p className="lead text-white mt-3">
 								DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY
-								INBOX IS OPEN FOR ALL
+								INBOX IS OPEN FOR ALL OR  CALL ME ON {contact.telephone}
 							</p>
 							<p className="text-white mt-3">{prof.bio}</p>
 							<div className="my-3 icon-shape bg-gradient-white shadow rounded text-info">
