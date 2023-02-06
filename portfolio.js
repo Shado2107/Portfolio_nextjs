@@ -207,12 +207,12 @@ export const projects = [
 		link: "https://shadomovies.netlify.app/",
 		// github: "https://github.com/Shado2107/moviesapp_react",
 	},
-	{
-		name: "Tales of time",
-		desc: "Web site for a travel agency in Senegal",
-		// github: "https://github.com/",
-		link: "coming soon"
-	},
+	// {
+	// 	name: "Tales of time",
+	// 	desc: "Web site for a travel agency",
+	// 	// github: "https://github.com/",
+	// 	link: "coming soon"
+	// },
 	{
 		name: "Invictus Capital finance",
 		desc: "Site web",
